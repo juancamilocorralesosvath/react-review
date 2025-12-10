@@ -4,6 +4,8 @@ Descubre qué está viendo el mundo.
 
 MovieInsight es una aplicación moderna para explorar, buscar y analizar las películas más populares del momento. No es solo otro buscador de películas: es una herramienta pensada para mostrarte **tendencias reales**, basada en datos e insights obtenidos directamente desde el comportamiento de los usuarios.
 
+[haz click aquí para ver la página desplegada](https://reactjs-movies-app-juan.netlify.app/)
+
 ---
 
 ## ¿Qué hace especial a MovieInsight?
@@ -69,7 +71,3 @@ El diseño responsive asegura que puedas explorar las mejores películas estés 
 MovieInsight combina una interfaz moderna en React, un backend robusto con Appwrite y un enfoque centrado en datos reales para ayudarte a descubrir las **películas más buscadas** de forma rápida, visual y desde cualquier dispositivo.
 
 Es más que una app de búsqueda: es una forma de entender qué está moviendo realmente la conversación en el mundo del cine.
-
----
-## link al deployment
-[haz click aquí para ver la página desplegada](https://reactjs-movies-app-juan.netlify.app/)
